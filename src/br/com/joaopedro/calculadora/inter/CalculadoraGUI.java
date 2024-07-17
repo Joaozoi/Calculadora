@@ -104,5 +104,6 @@ public class CalculadoraGUI extends JFrame implements ActionListener {
                 break;
         }
         display.setText(String.valueOf(result));
+
     }
 }
